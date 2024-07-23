@@ -29,7 +29,7 @@ const HeaderPage = () => {
                     </span>
                   </h1>
                   <p className="mt-3 text-base text-slate-50 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                    Junior programmer | Junior BackEnd Engineer
+                    Programmer | Backend Developper | Android Developper
                   </p>
                 </div>
               </div>
